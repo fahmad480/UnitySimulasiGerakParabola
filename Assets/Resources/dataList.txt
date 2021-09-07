@@ -1,0 +1,22 @@
+{
+    "ObjectList": [
+      {
+        "nama": "Gedung 1",
+        "_lattitude": -6.8972920,
+        "_longitude": 107.6363552,
+        "_prefab": "Gedung 1"
+      },
+      {
+        "nama": "Gedung 2",
+        "_lattitude": -6.9019,
+        "_longitude": 107.63461,
+        "_prefab": "Gedung 2"
+      },
+      {
+        "nama": "Meriam",
+        "_lattitude": -6.898868,
+        "_longitude": 107.6294691,
+        "_prefab": "Meriam"
+      }
+    ]
+  }
